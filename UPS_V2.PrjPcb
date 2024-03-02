@@ -114,7 +114,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SHYUXZJU
 
 [Document5]
 DocumentPath=..\..\..\..\alper\OneDrive\Masaüstü\iturov\capacitor\GMC32X7R225K100NT.PcbLib
@@ -148,7 +148,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GDCITBLF
 
 [Document7]
 DocumentPath=..\..\..\..\alper\OneDrive\Masaüstü\iturov\tps54560ddar\TPS54560DDAR.PcbLib
@@ -182,7 +182,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OLKIRDCK
 
 [Document9]
 DocumentPath=Ups_Design2.PcbDoc
@@ -234,6 +234,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMLWJDUJ
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for UPS_V2\Design Rule Check - Ups_Design2.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
